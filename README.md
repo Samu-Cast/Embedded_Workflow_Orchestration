@@ -1,12 +1,12 @@
 # Unified-Systems-Automation
 
 ## Panoramica del Progetto
-**Unified-Systems-Automation** è un framework architetturale progettato per l'integrazione tra hardware embedded e flussi di lavoro desktop. L'obiettivo principale è l'eliminazione delle frizioni operative attraverso l'automazione intelligente, permettendo l'interazione tra dispositivi fisici (ESP32, Pro Micro, Raspberry Pi) e ambienti di calcolo avanzati.
+**Unified-Systems-Automation** è un framework architetturale progettato per l'integrazione tra hardware embedded e flussi di lavoro alternativi. L'obiettivo principale è l'eliminazione delle frizioni tra teoria e pratica, anndando a studiare come mettere in pratica la toria dei dispositivi anche attraverso l'automazione intelligente, permettendo l'interazione tra dispositivi fisici (ESP32, Pro Micro, Raspberry Pi,...) e ambienti di calcolo avanzati.
 
-Questo progetto nasce dalla necessità di centralizzare l'orchestrazione dei processi quotidiani, trasformando interfacce hardware in trigger decisionali per sistemi software complessi.
+Questo progetto nasce dalla necessità di centralizzare l'orchestrazione dei processi quotidiani e studiare dispositivi IoT, trasformando dei semlici circuiti in dispositivi funzionanti e programmati con interfacce hardware in trigger decisionali per sistemi software complessi.
 
 ## Obiettivi a lungo termine
-Questa repository funge da hub centrale per lo sviluppo di sistemi di automazione scalabili, tra cui:
+Questa repository funge da hub centrale per lo sviluppo di sistemi scalabili, tra cui:
 
 * **Human-Machine Interface (HMI):** Sviluppo di controller fisici personalizzati per l'orchestrazione del workflow.
 * **Intelligent Local Orchestration:** Implementazione di server locali basati su Raspberry Pi per la gestione autonoma di logiche complesse (Domotica, AI locale, Monitoring).
